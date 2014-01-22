@@ -1,0 +1,11 @@
+
+animador
+funcionários da cozinha
+funcionários da limpeza
+funcionários da piscina
+funcionários da recepção
+funcionários da área de lazer
+funcionários do bar
+funcionários do restaurante
+gerência
+porteiro
