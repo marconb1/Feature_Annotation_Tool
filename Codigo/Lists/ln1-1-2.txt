@@ -1,0 +1,9 @@
+duplo
+quarto de casal
+quarto de luxo
+quarto de solteiro
+quarto familiar
+quarto standard
+quarto triplo
+quarto romântico
+suíte

@@ -1,0 +1,15 @@
+
+acomodação
+aparência
+categorias de hotéis
+endereço
+estabelecimemto
+horário
+instalações
+localização
+preço
+quadro de funcionários
+rede de hotéis
+refeição
+serviços
+tipo de hóspede
